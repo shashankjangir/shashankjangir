@@ -57,7 +57,7 @@ Indian Institute of Technology Delhi
 
 ## 📫 Connect
 
-* [LinkedIn]((https://www.linkedin.com/in/shashank-jangir2201/))
+* [LinkedIn](https://www.linkedin.com/in/shashank-jangir2201/)
 * [Email](mailto:ee1241048@iitd.ac.in)
 
 *Design. Build. Test. Improve.*
