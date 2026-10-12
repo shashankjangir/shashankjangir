@@ -1,63 +1,62 @@
-# Hi, I'm Shashank Jangir 👋
+<div align="center">
 
-**Electrical Engineering @ IIT Delhi | Robotics & Embedded Systems**
+# Shashank Jangir
 
-I enjoy building engineering systems that connect hardware, software, and intelligent control.
+### Electrical Engineering @ IIT Delhi
 
-* 🤖 **Robotics:** Modular snake robot design, actuator control, and locomotion
-* ⚡ **Digital Design:** Verilog, finite-state machines, and CPLD implementation
-* 🔌 **Embedded Systems:** Raspberry Pi, ESP32, Arduino, and communication protocols
-* 👁️ **Computer Vision:** Python, OpenCV, and real-time facial recognition
-* 🛠️ **Mechanical Design:** CAD modeling, mechanisms, and rapid prototyping
+**Robotics · Embedded Systems · Digital Design · Computer Vision**
 
-## 🚀 Featured Projects
+Building practical engineering systems across hardware, software, and intelligent control.
 
-### 🐍 Smart Snake Robot
+[GitHub](https://github.com/shashankjangir) · [LinkedIn](https://www.linkedin.com/in/shashank-jangir2201/) · [Email](mailto:ee1241048@ee.iitd.ac.in)
 
-An 11-segment modular robotic platform exploring travelling-wave locomotion, actuator integration, and embedded control.
+</div>
 
-**Technologies:** Raspberry Pi 5 · ESP32 · Smart Servos · CAD
+---
 
-### ⚡ Synchronous 4-Bit Gray Code Counter
+## Featured Projects
 
-A synchronous digital circuit designed using SR flip-flops, Boolean minimization, Verilog, and CPLD hardware validation.
+### [🐍 SURGE-090 — Smart Snake Robot](https://github.com/shashankjangir/SurGe-090-Smart-snake-robot)
+A modular, bio-inspired snake robot research project focused on travelling-wave locomotion, serial bus servos, embedded control, simulation, and telemetry.
 
-**Technologies:** Verilog · Intel Quartus Prime · CPLD
+**Stack:** Python · ESP32 · Raspberry Pi 5 · ST3215 · CAD
 
-### 🤖 Autonomous Line-Following Robot
+### [⚡ Synchronous 4-Bit Gray Code Counter](https://github.com/shashankjangir/Synchronous-4-Bit-Gray-Code-Counter)
+Digital logic project documenting the 16-state Gray-code sequence, SR flip-flop excitation, Boolean minimisation, and CPLD verification workflow. Runnable RTL and automated verification are still to be added.
 
-An embedded control project using infrared sensing, feedback control, and adaptive thresholding for autonomous trajectory tracking.
+**Stack:** Verilog · Digital Logic · CPLD
 
-**Technologies:** Arduino · Embedded C/C++ · PWM · IR Sensors
+### [👁️ Real-Time Face Recognition](https://github.com/shashankjangir/Real-time-face-recognition-)
+A Raspberry Pi camera-streaming and face-recognition pipeline with face enrollment, a Flask dashboard, and SQLite access logging.
 
-### 👁️ Real-Time Facial Recognition & Access System
+**Stack:** Python · OpenCV · Flask · SQLite · Raspberry Pi 5
 
-A computer vision application combining facial embeddings, real-time verification, and structured access logging.
+### [🛞 Staircase-Climbing Trolley](https://github.com/shashankjangir/Stair-case-climbing-troley)
+A mechanical design workspace exploring a tri-star wheel mechanism for stair transport, with research, preliminary calculations, and CAD. The current rebuild's fabrication and testing are not yet complete.
 
-**Technologies:** Python · OpenCV · SQLite · Raspberry Pi 5
+**Stack:** CAD · Mechanism Design · Engineering Calculations
 
-### 🛞 Staircase-Climbing Trolley
+### [🤖 Line-Following Robot](https://github.com/shashankjangir/Line-following-robot)
+Repository reserved for the Arduino line-following robot project. Source code, wiring, and test documentation are still to be published.
 
-A mechanical design project using a tri-star wheel mechanism for stair traversal and payload transportation.
+---
 
-**Technologies:** CAD · Mechanism Design · Prototyping
+## Technical Interests
 
-## 🧰 Technologies
+- **Programming:** Python · C++ · SQL · Verilog
+- **Embedded systems:** Raspberry Pi · ESP32 · Arduino · Serial communication
+- **Computer vision:** OpenCV · Face recognition
+- **Engineering tools:** MATLAB · Simulink · LTspice · SolidWorks · Fusion 360
+- **Workflow:** Git · GitHub · Simulation · Prototyping
 
-**Programming:** Python · C++ · SQL · Verilog
-**Embedded Systems:** Raspberry Pi · ESP32 · Arduino
-**Libraries:** OpenCV · NumPy · Pandas · Scikit-learn
-**Engineering Tools:** MATLAB · Simulink · LTspice · SolidWorks · Fusion 360
-**Developer Tools:** Git · GitHub · VS Code
+## About
 
-## 🎓 Education
+I'm an Electrical Engineering undergraduate at IIT Delhi interested in robotics, embedded control, digital design, and engineering prototypes. I use these repositories to document design decisions, implementation details, experiments, and ongoing work.
 
-**B.Tech in Electrical Engineering**
-Indian Institute of Technology Delhi
+---
 
-## 📫 Connect
-
-* [LinkedIn](https://www.linkedin.com/in/shashank-jangir2201/)
-* [Email](mailto:ee1241048@iitd.ac.in)
+<div align="center">
 
 *Design. Build. Test. Improve.*
+
+</div>
