@@ -36,9 +36,6 @@ A mechanical design workspace exploring a tri-star wheel mechanism for stair tra
 
 **Stack:** CAD · Mechanism Design · Engineering Calculations
 
-### [🤖 Line-Following Robot](https://github.com/shashankjangir/Line-following-robot)
-Repository reserved for the Arduino line-following robot project. Source code, wiring, and test documentation are still to be published.
-
 ---
 
 ## Technical Interests
